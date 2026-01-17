@@ -225,7 +225,7 @@ export default function Portfolio() {
                 Full Stack Developer enfocado en Backend potenciado con IA
               </p>
               <p className="text-base sm:text-lg text-muted-foreground mb-8 max-w-2xl">
-                Estudiante de Técnico Superior en Desarrollo de Software y Técnico Superior en Base de Datos e IA 
+                Egresado de la Tecnicatura Superior en Desarrollo de Software y Estudiante de la Tecnicatura Superior en Base de Datos e IA 
                 en el Instituto Tecnológico Santiago del Estero. 
                 Apasionado por crear soluciones innovadoras combinando JavaScript, Node.js y tecnologías de inteligencia artificial.
               </p>
@@ -279,7 +279,7 @@ export default function Portfolio() {
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
                   <Brain className="h-5 w-5 text-primary" />
-                  Educación Actual
+                  Formación Académica
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
@@ -291,7 +291,7 @@ export default function Portfolio() {
                     Instituto Tecnológico Santiago del Estero
                   </p>
                   <p className="text-sm text-muted-foreground mt-1">
-                    Actualmente cursando
+                    Egresado
                   </p>
                 </div>
                 <Separator />

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('http://localhost:3000'),
   title: "Agustín Rojas - Full Stack Developer | Backend & AI Specialist",
-  description: "Portafolio de Agustín Rojas, Full Stack Developer especializado en Backend potenciado con Inteligencia Artificial. Estudiante de Técnico Superior en Desarrollo de Software y Técnico Superior en Base de Datos e IA en el Instituto Tecnológico Santiago del Estero.",
+  description: "Portafolio de Agustín Rojas, Full Stack Developer especializado en Backend potenciado con Inteligencia Artificial. Egresado de la Tecnicatura Superior en Desarrollo de Software y Estudiante de la Tecnicatura Superior en Base de Datos e IA en el Instituto Tecnológico Santiago del Estero.",
   keywords: ["Agustín Rojas", "Full Stack Developer", "Backend Developer", "AI Developer", "JavaScript", "Node.js", "Next.js", "TypeScript", "PostgreSQL", "MongoDB", "Machine Learning", "Instituto Tecnológico Santiago del Estero", "Desarrollo de Software"],
   authors: [{ name: "Agustín Rojas" }],
   icons: {
